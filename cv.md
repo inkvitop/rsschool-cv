@@ -1,5 +1,7 @@
 # Pavel Popov #
 
+![Profile photo](https://raw.githubusercontent.com/inkvitop/rsschool-cv/gh-pages/Pavel_photo2.jpg)
+
 ## Contacts: ##
 - e-mail: inkvitop@gmail.com
 - Mobile: +375(29)852-03-37
