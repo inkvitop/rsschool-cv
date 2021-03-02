@@ -1,1 +1,1 @@
-https://inkvitop.github.io/rsschool-cv/cv
+https://inkvitop.github.io/rsschool-cv/
